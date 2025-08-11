@@ -1,0 +1,21 @@
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER_Downloader.Home.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.vbproj.GenerateResource.cache
+C:\Users\lucat\Desktop\INSTALLER Downloader\INSTALLER Downloader.exe.config
+C:\Users\lucat\Desktop\INSTALLER Downloader\INSTALLER Downloader.exe
+C:\Users\lucat\Desktop\INSTALLER Downloader\INSTALLER Downloader.pdb
+C:\Users\lucat\Desktop\INSTALLER Downloader\INSTALLER Downloader.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER_Downloader.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER_Downloader.wheresave.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER_Downloader.Home.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER_Downloader.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER_Downloader.wheresave.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.vbprojAssemblyReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Debug\INSTALLER Downloader.vbproj.CoreCompileInputs.cache

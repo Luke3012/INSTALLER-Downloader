@@ -1,0 +1,17 @@
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\bin\Release\INSTALLER Downloader.exe.config
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\bin\Release\INSTALLER Downloader.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\bin\Release\INSTALLER Downloader.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\bin\Release\INSTALLER Downloader.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER Downloader.vbproj.AssemblyReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER_Downloader.Home.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER_Downloader.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER_Downloader.wheresave.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER Downloader.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER Downloader.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER Downloader.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER Downloader\INSTALLER Downloader\obj\Release\INSTALLER Downloader.pdb
+C:\Users\lucat\Desktop\INSTALLER Downloader\INSTALLER Downloader.exe.config
+C:\Users\lucat\Desktop\INSTALLER Downloader\INSTALLER Downloader.exe
+C:\Users\lucat\Desktop\INSTALLER Downloader\INSTALLER Downloader.pdb
+C:\Users\lucat\Desktop\INSTALLER Downloader\INSTALLER Downloader.xml
